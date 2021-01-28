@@ -1,11 +1,7 @@
 ---
 title: info page
-background_color: '#AEC4BE'
+background_color: '#AEBAC4'
 ---
-## This blog was created using [TinaCMS](https://tinacms.org) & [NextJS](https://nextjs.org/) 
+## Jack Chai is a creative professional working in finance and living in New York City.
 
-## To get started, read the TinaCMS [docs](https://tinacms.org/docs) or checkout the [repository](https://github.com/kendallstrautman/brevifolia-next-tinacms).
-
-- ## Email: [hello@tinacms.org]
-- ## Twitter: [@tina_cms](https://twitter.com/tina_cms)
-- ## Github: [tinacms](https://github.com/tinacms/tinacms)
+This site is a gift to him on his birthday if he wants to use it to capture his thoughts and photography exploring the City and meeting new people.
